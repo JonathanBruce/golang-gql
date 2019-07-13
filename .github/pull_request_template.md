@@ -1,4 +1,3 @@
-# Description
 ## Features
 A PR made to this repository should have a proposal description that explains the rational and justification for feature additions.
 
